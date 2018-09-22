@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 [![Build Status](https://travis-ci.org/Malmousque/js-training.svg?branch=master)](https://travis-ci.org/Malmousque/js-training)
+=======
+[![Build Status](https://travis-ci.org/GITHUB_LOGIN/js-training.svg?branch=master)](https://travis-ci.org/Malmousque/js-training)
+>>>>>>> 111a8c6405c4eff5dfa47621d4f6ef148d68bdde
 ## Setup
 First, [**fork**](https://github.com/nan-academy/js-training/fork?fragment=1) this repository.
 ### globals dependencies

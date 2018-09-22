@@ -5,6 +5,17 @@
  * and return the total
  *
  */
+ function total(array){
+
+
+ 	let resultat = 0;
+ 	for (var i = 0; i < array.length; i++) {
+ 		
+ 		resultat = resultat + array[i];
+ 		
+ 	}
+ 	return resultat;
+ }
 
 
 //* Begin of tests
